@@ -1,7 +1,7 @@
 # INFORMATION
-IP ADDRESS: 54.172.170.196
-URL: http://ec2-54-172-170-196.compute-1.amazonaws.com/
-AVAILABLE PORTS: 2200, 80, 123
+- IP ADDRESS: 54.172.170.196
+- URL: http://ec2-54-172-170-196.compute-1.amazonaws.com/
+- AVAILABLE PORTS: 2200, 80, 123
 
 # WALKTHROUGH
 
