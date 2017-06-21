@@ -2,8 +2,6 @@
 IP ADDRESS: 54.172.170.196
 URL: http://ec2-54-172-170-196.compute-1.amazonaws.com/
 AVAILABLE PORTS: 2200, 80, 123
-grader passphrase: linuxing
-grader password: student3
 
 # WALKTHROUGH
 
@@ -265,35 +263,3 @@ Resources: Thank you to Hari Vedam for explaining the necessary postgresql steps
 
 Resources https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04#how-to-install-git-with-apt
 Thank you to Trish and Steve and the Slack Community!
-Thank you to Hari Vedam[https://github.com/harushimo/linux-server-configuration]for holes in my project.
-
------BEGIN RSA PRIVATE KEY-----
-Proc-Type: 4,ENCRYPTED
-DEK-Info: AES-128-CBC,90F74CB2F569D5F74BE85381FBC20432
-
-+ZefiLg02IIwZ0Iv+U7Y48V04LXEwWnpDILI1EPTul9zR1YIPQCWl/3wqAjTIMBj
-KENtbWRKDYIyoLo/L+4edVwFnzams5Jgn7GDXLV5clP+U1bzcGQvagYAbg2BJKg/
-mbxlIcuS37P424tr+S3Xc1eyA12JL7LXwgnVYmEM74gt1AlAwjMQjblLqg9gYks4
-BjrWdMyGK5pCtwn+WI9GDU/Ox+Puu/ay4gGEOtoty7LaJYHWNd8KBBgXXxX4hKYJ
-XFUNA6L0rS2dzP8gSmMWU4ynJjIbLf0JWTJuQBw3OJRzfsgA2HU3N7U7DimuBLDH
-mr+dEbw/+HaXLTBmI7eTGPdzdqJpn0zJxE2Qtx4c+b5y7RB65fv4MX2rrgVbs/gT
-KvCYDDbPUD+EFLybI5H5JIzyEwhOIXb+i7K85h0LabhCF/g1WJtlKFMfh6UwWJ8W
-cQ7uwCCOsVv66zqATBg32Hu26W8/aOJ6mohIpcFXJGtlpiZHlYR1OfpIcGVmtfi4
-SHaOq+A1fiknwtTjfmVoSOKS4njWJfW9q1Az23ahePa2TXjk6ymjKCSDDkDEMgzi
-5DTXJT0i0LTnGZWl/7YjfKEmisu+Y/DO6CeNrbMTRejSo9AhKJCPfpCfXAhwYF1i
-xgZm/Z9zC3JM9XGV9PiQa0zKedaKUaj+QpM86fWFd6ODeuR17XlKsZHCQOfm+Bav
-qB0fML4SJFfVNEdMILs9Pu1APEzVzEh64GDmzVjohoGWHIXEuPfjlC+1MnqwtRNA
-lWzpOfsUQBxZw911gh5GpRr++uaYnWn8zWWjEJOuJx+mq9VZ2FVdxDgB6zgBY9rV
-qglovrMc7Ac0UY2YUiYwdrZFsKgzCS+GqbQhcwBsX9sSsOFhvlxCR/UNiMEfC3Un
-WsTOLuMDocGqD72MOTff/gA5FU/rbdM/+1mIuxafnFWcTzMangTf3AI3hnMGpkPF
-Pej8veneZyrOluxMNAeGnH/Zr7gPJUFPa5kwngW4bxCo9T6deb1BJdJF4IlkrdSZ
-8SfbRyV3RqQWsf+nuZp4hrffHfjcILb8XJMIl8NS2VdOTgolmHjUIyz7R2qWi8Go
-uv3UKhsnDBFn3eOTfQupxtXLgGWDyitQsewRbaV61qbpLueh5MOZ8yNFW3qWmuYM
-7SlR49T/30kTaNxAJkIS5Bdc/ao2FRoqbkG28hzDfkfNciPrPvfICFLF1wEfzNw9
-FsuJ2sf/3K3hQ+g6yoNmVWAXcSFLKPwWdG7wi80tWcM1ROCoBKnYoroAdVR7e17A
-fggQ0x0IUWm1JAb6bjK9WzUis0VBVWUq0TsthSpL66EuGAXoFivPaJ5JE2ONqCnj
-ll7xhY0FGTfCP7HHIJy2mTmTpuuxnS1v71xeWzxlUJ1j/erF3Q64AABcCcSjRtXa
-Ylgwu64zQ9Lbmz7SmZquQpfgplTdFbjfVx5YgtM5uKgcDeAMkEf/2DorHoONogI7
-YpKq3cG3w14g4yLqKcBGofm2IsNUM3ncOMGbGOE6/Oy8kWEiClpDwHTjz2mWVprm
-7weM7h8lRGDvpkt7npz+2/B86J7gkr+vbend0FVwsS0ataBrk5SWeuqFXdWyNIIQ
------END RSA PRIVATE KEY-----
